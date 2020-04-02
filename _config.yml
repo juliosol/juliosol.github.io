@@ -26,10 +26,41 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+# theme: minimal-mistakes-jekyll
+theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
 
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Projects
+  url: /projects/
+- title: Blog
+  url: /blog/
+- title: Archive
+  url: /archive/
+#- title: Search
+#  url: /search/
+#- title: Fork Alembic
+#  url: https://github.com/daviddarnes/alembic
+
+navigation_footer:
+- title: Created by Julio Soldevilla (Using alembic-jekyll-theme)
+  #url: https://darn.es
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  #Twitter: https://twitter.com/DavidDarnes
+  LinkedIn: https://www.linkedin.com/in/julsoles/
+  GitHub: https://github.com/juliosol
+  
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
