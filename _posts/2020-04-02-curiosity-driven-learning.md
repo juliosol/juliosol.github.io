@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Multi-step curiosity driven learning"
 feature_image: "https://juliosol.github.io/site_resources/super_mario_nes.png"
 
@@ -15,30 +15,13 @@ This was a project developed for the course EECS 598 Deep Learning at University
 
 You can find the document with the final results [here](https://juliosol.github.io/multi_step_project/resources/EECS598_012_Final_Report.pdf)
 
-[![VIDEO RESULTS](https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg "Best results Super Mario")](https://www.youtube.com/watch?v=Zy1AgyXMNZQ) [![VIDEO RESULTS](https://juliosol.github.io/multi_step_project/resources/intermediate_thumbnail.jpg "Intermediate results Super Mario")](https://www.youtube.com/watch?v=oJ81Myujf3A&t=6s)
+<!-- [![VIDEO RESULTS](https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg "Best results Super Mario")](https://www.youtube.com/watch?v=Zy1AgyXMNZQ)[![VIDEO RESULTS](https://juliosol.github.io/multi_step_project/resources/intermediate_thumbnail.jpg "Intermediate results Super Mario")](https://www.youtube.com/watch?v=oJ81Myujf3A&t=6s) -->
 
-<div class="row">
-  <div class="column">
-    <a href = "https://www.youtube.com/watch?v=Zy1AgyXMNZQ">
-      <img src="https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg" alt="Best learned moves"
-      title="Best results Super Mario" width="300" height="150" />
-    </a>
-  </div>
-  <div class="column">
-    <a href = "https://www.youtube.com/watch?v=oJ81Myujf3A&t=6s">
-      <img src="https://juliosol.github.io/multi_step_project/resources/intermediate_thumbnail.jpg" alt="Intermediate learning"
-	    title="Intermediate results Super Mario" width="150" height="100"/>
-    </a>
-  </div>
-</div>
-
-<a href = "https://www.youtube.com/watch?v=Zy1AgyXMNZQ">
-  <img src="https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg" alt="Best learned moves"
-    title="Best results Super Mario" width="400" height="200" />
-</a>
+<a href = "https://www.youtube.com/watch?v=Zy1AgyXMNZQ"> <img align="left" src="https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg" alt="Best learned moves" title="Best results Super Mario" width="300" height="150"/> </a>
+<!--<figcaption> Best results Super Mario </figcaption> -->
 
 <a href = "https://www.youtube.com/watch?v=oJ81Myujf3A&t=6s">
-  <img src="https://juliosol.github.io/multi_step_project/resources/intermediate_thumbnail.jpg" alt="Intermediate learning"
-	  title="Intermediate results Super Mario" width="150" height="100"/>
+  <img align="right" src="https://juliosol.github.io/multi_step_project/resources/intermediate_thumbnail.jpg" alt="Intermediate learning"
+  title="Intermediate results Super Mario" width="300" height="150" />
 </a>
-
+<!--<figcaption> Intermediate results Super Mario </figcaption>-->
