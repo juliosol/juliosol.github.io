@@ -102,10 +102,10 @@ navigation_header:
   url: /
 - title: Projects
   url: /projects/
-- title: Blog
-  url: /blog/
-- title: Archive
-  url: /archive/
+- title: About
+  url: /about/
+#- title: Archive
+#  url: /archive/
 #- title: Search
 #  url: /search/
 #- title: Fork Alembic
