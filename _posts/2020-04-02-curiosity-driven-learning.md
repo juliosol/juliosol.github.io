@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "Multi-step curiosity driven learning"
+feature_image: "https://juliosol.github.io/site_resources/super_mario_nes.png"
+
 date:   2020-04-02 10:12:26 -0700
 categories: 
   - Reinforcement Learning

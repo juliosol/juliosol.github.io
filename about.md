@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+featured_image: "https://juliosol.github.io/site_resources/slima1.jpeg"
 permalink: /about/
 ---
 
