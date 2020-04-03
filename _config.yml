@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Thinking Machine
+email: julsoles@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -49,8 +49,8 @@ plugins:
   - jemoji
 
 # 3. Gem settings
-#paginate: 2 # jekyll-paginate > items per page
-#paginate_path: blog/page:num # jekyll-paginate > blog page
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
@@ -84,10 +84,11 @@ collections:
 
 # 6. Jekyll collections settings
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
+      type: pages
     values:
+      layout: page
       image: "/assets/default-social-image.png" # Default image for sharing
 
 
@@ -95,7 +96,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "https://juliosol.github.io/site_resources/tropical_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
