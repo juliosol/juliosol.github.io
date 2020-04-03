@@ -15,13 +15,20 @@ This was a project developed for the course EECS 598 Deep Learning at University
 
 You can find the document with the final results [here](https://juliosol.github.io/multi_step_project/resources/EECS598_012_Final_Report.pdf)
 
-[![VIDEO RESULTS](https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg "Best results Super Mario")](https://www.youtube.com/watch?v=Zy1AgyXMNZQ)[![VIDEO RESULTS](https://juliosol.github.io/multi_step_project/resources/intermediate_thumbnail.jpg "Intermediate results Super Mario")](https://www.youtube.com/watch?v=oJ81Myujf3A&t=6s)
+The first video we show has intermediate results from training the agent. In this case, Mario seems to learn something, but it's "playing" yet.
+<p align="center">
+  <a href = "https://www.youtube.com/watch?v=oJ81Myujf3A&t=6s">
+    <img src="https://juliosol.github.io/multi_step_project/resources/intermediate_thumbnail.jpg" alt="Intermediate learning"
+    title="Intermediate results Super Mario" width="500" height="300" />
+  </a>
+  <figcaption> Intermediate results Super Mario </figcaption>
+</p>
 
-<!-- <a href = "https://www.youtube.com/watch?v=Zy1AgyXMNZQ"> <img align="left" src="https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg" alt="Best learned moves" title="Best results Super Mario" width="300" height="150"/> </a>
-<figcaption> Best results Super Mario </figcaption> -->
-
-<!--<a href = "https://www.youtube.com/watch?v=oJ81Myujf3A&t=6s">
-  <img align="right" src="https://juliosol.github.io/multi_step_project/resources/intermediate_thumbnail.jpg" alt="Intermediate learning"
-  title="Intermediate results Super Mario" width="300" height="150" />
-</a>
-<figcaption> Intermediate results Super Mario </figcaption>-->
+The last video presented show results of the agent learning more and advancing quite more into the first level. 
+<p align="center">
+  <a href = "https://www.youtube.com/watch?v=Zy1AgyXMNZQ">
+    <img src="https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg" alt="Intermediate learning"
+    title="Intermediate results Super Mario" width="500" height="300" />
+  </a>
+  <figcaption>Best results Super Mario </figcaption>
+</p>
