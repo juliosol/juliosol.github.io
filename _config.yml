@@ -28,10 +28,13 @@ github_username:  jekyll
 markdown: kramdown
 # theme: minima
 # theme: minimal-mistakes-jekyll
-theme: alembic-jekyll-theme
-plugins:
+# theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
+plugins_dir:
   - jekyll-feed
-
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  
 
 # 9. Site navigation
 navigation_header:
