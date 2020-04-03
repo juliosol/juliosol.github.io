@@ -9,7 +9,7 @@ layout: page
 
 Welcome, this is a website to store some of my personal projects and notes.
 
-I am interested in working in applications that make use of machine learning, deep learning and reinforcement learning. Right now, I am actively looking for working opportunities in any industry where I can pursue my interests artificial intelligence.
+I am interested in working in applications that make use of machine learning, deep learning and reinforcement learning. Right now, I am actively looking for working opportunities in any industry where I can pursue my interests artificial intelligence. If you have any opportunity or know anybody that has one and think I am a good match, please don't hesitate to contact me. 
 
 The website is in constant construction, but thanks for stopping by! Feel free to get in touch!
 
