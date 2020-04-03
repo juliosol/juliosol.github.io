@@ -16,5 +16,12 @@ You can find the document with the final results [here](https://juliosol.github.
 [![VIDEO RESULTS](https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg)](https://www.youtube.com/watch?v=Zy1AgyXMNZQ)
 
 
-<img src="/media/2018/08/kitten.jpg" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+<a href = "https://www.youtube.com/watch?v=Zy1AgyXMNZQ">
+  <img src="https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg" alt="Best learned moves"
+	  title="Best results Super Mario" width="150" height="100" />
+</a>
+
+<a href = "https://www.youtube.com/watch?v=oJ81Myujf3A&t=6s">
+  <img src="https://juliosol.github.io/multi_step_project/resources/intermediate_thumbnail.jpg" alt="Intermediate learning"
+	  title="Intermediate results Super Mario" width="150" height="100"/>
+</a>
