@@ -7,21 +7,12 @@ categories:
   - Artificial Intelligence
 ---
 
-This project was an attempt to extend the work of 
+This project was an attempt to extend the paper [Large-scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf) by Peetak et. al. In particular, we attempted to improve the learning framework by allowing the agent to generate predictions of two-steps at a time instead of doing predictions one-step at a time. 
+
 This was a project developed for the course EECS 598 Deep Learning at University of Michigan in collaboration with Kushantha Attanayake,Ruchir Aggarwal, Dennis Li and Poorani Ravindhiran. 
 
-Jekyll also offers powerful support for code snippets:
+You can find the document with the final results [here](https://juliosol.github.io/multi_step_project/resources/EECS598_012_Final_Report.pdf)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[![VIDEO RESULTS](http://i3.ytimg.com/vi/Zy1AgyXMNZQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Zy1AgyXMNZQ)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
