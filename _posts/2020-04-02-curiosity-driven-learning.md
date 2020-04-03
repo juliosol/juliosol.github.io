@@ -13,6 +13,8 @@ This was a project developed for the course EECS 598 Deep Learning at University
 
 You can find the document with the final results [here](https://juliosol.github.io/multi_step_project/resources/EECS598_012_Final_Report.pdf)
 
-[![VIDEO RESULTS](http://i3.ytimg.com/vi/Zy1AgyXMNZQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Zy1AgyXMNZQ)
+[![VIDEO RESULTS](https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg)](https://www.youtube.com/watch?v=Zy1AgyXMNZQ)
 
 
+<img src="/media/2018/08/kitten.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />

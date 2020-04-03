@@ -29,6 +29,12 @@ markdown: kramdown
 # theme: minima
 # theme: minimal-mistakes-jekyll
 # theme: alembic-jekyll-theme
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+  math_engine: mathjax
+include: ['_pages']
+exclude: [vendor]
 remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-sitemap
