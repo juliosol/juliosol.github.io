@@ -13,5 +13,5 @@ I am interested in working in applications that make use of machine learning, de
 
 The website is in constant construction, but thanks for stopping by! Feel free to get in touch!
 
-[{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/julsoles/")             [{% include icon.html id="github" title="github" %}](https://github.com/juliosol")
+[{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/julsoles/)             [{% include icon.html id="github" title="github" %}](https://github.com/juliosol)
 
