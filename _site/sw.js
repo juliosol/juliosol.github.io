@@ -1,8 +1,8 @@
-const version = '20200404002932';
+const version = '20200406105130';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/reinforcement%20learning/artificial%20intelligence/2020/04/02/curiosity-driven-learning/","/404/","/about/","/projects/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/site_resources/tropical_logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/2020/04/02/curiosity-driven-learning/","/404/","/about/","/projects/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/site_resources/tropical_logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

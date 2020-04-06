@@ -1,12 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "Multi-step curiosity driven learning"
 feature_image: "https://juliosol.github.io/site_resources/super_mario_nes.png"
-
 date:   2020-04-02 10:12:26 -0700
 categories: 
-  - Reinforcement Learning
-  - Artificial Intelligence
 ---
 
 This project was an attempt to extend the paper [Large-scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf) by Peetak et. al. In particular, we attempted to improve the learning framework by allowing the agent to generate predictions of two-steps at a time instead of doing predictions one-step at a time. 

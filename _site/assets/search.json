@@ -9,7 +9,7 @@
         "title": "Multi-step curiosity driven learning",
         "excerpt": "This project was an attempt to extend the paper Large-scale Study of Curiosity-Driven Learning by Peetak et. al. In particular, we attempted to improve the learning framework by allowing the agent to generate predictions of two-steps at a time instead of doing predictions one-step at a time.\n\nThis was a project developed for the course EECS 598 Deep Learning at University of Michigan in collaboration with Kushantha Attanayake,Ruchir Aggarwal, Dennis Li and Poorani Ravindhiran.\n\nYou can find the document with the final results here\n\nThe first video we show has intermediate results from training the agent. In this case, Mario seems to learn something, but it’s “playing” yet.\n\n  \n    \n  \n   Intermediate results Super Mario \n\n\nThe last video presented show results of the agent learning more and advancing quite more into the first level.\n\n  \n    \n  \n  Best results Super Mario \n\n",
         "content": "This project was an attempt to extend the paper Large-scale Study of Curiosity-Driven Learning by Peetak et. al. In particular, we attempted to improve the learning framework by allowing the agent to generate predictions of two-steps at a time instead of doing predictions one-step at a time.\n\nThis was a project developed for the course EECS 598 Deep Learning at University of Michigan in collaboration with Kushantha Attanayake,Ruchir Aggarwal, Dennis Li and Poorani Ravindhiran.\n\nYou can find the document with the final results here\n\nThe first video we show has intermediate results from training the agent. In this case, Mario seems to learn something, but it’s “playing” yet.\n\n  \n    \n  \n   Intermediate results Super Mario \n\n\nThe last video presented show results of the agent learning more and advancing quite more into the first level.\n\n  \n    \n  \n  Best results Super Mario \n\n",
-        "url": "/reinforcement%20learning/artificial%20intelligence/2020/04/02/curiosity-driven-learning/"
+        "url": "/2020/04/02/curiosity-driven-learning/"
       },
     
   
@@ -23,9 +23,9 @@
   },
   
   {
-    "title": "Thinking Machine",
+    "title": "Sentient being",
     "excerpt": "Personal website for my projects and notes.\n",
-    "content": "Welcome, this is a website to store some of my personal projects and notes.\n\nI am interested in working in applications that make use of machine learning, deep learning and reinforcement learning. Right now, I am actively looking for working opportunities in any industry where I can pursue my interests artificial intelligence. If you have any opportunity or know anybody that has one and think I am a good match, please don’t hesitate to contact me.\n\nThe website is in constant construction, but thanks for stopping by! Feel free to get in touch!\n\nlinkedin\n             github\n\n\n",
+    "content": "Welcome, this is a website to store some of my personal projects and notes.\n\nI am interested in working in applications that make use of machine learning, deep learning and reinforcement learning. Right now, I am actively looking for working opportunities in any industry where I can pursue my interests artificial intelligence with applications in computer vision. If you have any opportunity or know anybody that has one and think I am a good match, please don’t hesitate to contact me.\n\nThe website is in constant construction, but thanks for stopping by! Feel free to get in touch!\n\nlinkedin\n             github\n\n\n",
     "url": "/"
   }
   
