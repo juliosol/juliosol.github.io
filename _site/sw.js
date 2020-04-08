@@ -1,8 +1,8 @@
-const version = '20200406105130';
+const version = '20200408175538';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/2020/04/02/curiosity-driven-learning/","/404/","/about/","/projects/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/site_resources/tropical_logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/2020/04/02/curiosity-driven-learning/","/2020/03/20/cpp-snake/","/404/","/about/","/projects/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/site_resources/tropical_logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
