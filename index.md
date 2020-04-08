@@ -1,5 +1,5 @@
 ---
-title: Sentient being
+title: Julio Soldevilla
 feature_text: 
   ## Thinking Machine 
 feature_image: "https://juliosol.github.io/site_resources/illimani1.jpg"
