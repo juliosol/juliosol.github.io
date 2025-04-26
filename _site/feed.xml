@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2020-04-08T18:06:14+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alembic</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>DavidDarnes</name></author><entry><title type="html">Multi-step curiosity driven learning</title><link href="http://localhost:4000/2020/04/02/curiosity-driven-learning/" rel="alternate" type="text/html" title="Multi-step curiosity driven learning" /><published>2020-04-02T18:12:26+01:00</published><updated>2020-04-02T18:12:26+01:00</updated><id>http://localhost:4000/2020/04/02/curiosity-driven-learning</id><content type="html" xml:base="http://localhost:4000/2020/04/02/curiosity-driven-learning/">&lt;p&gt;This project was an attempt to extend the paper &lt;a href=&quot;https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf&quot;&gt;Large-scale Study of Curiosity-Driven Learning&lt;/a&gt; by Peetak et. al. In particular, we attempted to improve the learning framework by allowing the agent to generate predictions of two-steps at a time instead of doing predictions one-step at a time.&lt;/p&gt;
+
+&lt;p&gt;This was a project developed for the course EECS 598 Deep Learning at University of Michigan in collaboration with Kushantha Attanayake,Ruchir Aggarwal, Dennis Li and Poorani Ravindhiran.&lt;/p&gt;
+
+&lt;p&gt;You can find the document with the final results &lt;a href=&quot;https://juliosol.github.io/multi_step_project/resources/EECS598_012_Final_Report.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The first video we show has intermediate results from training the agent. In this case, Mario seems to learn something, but it’s “playing” yet.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;a href=&quot;https://www.youtube.com/watch?v=oJ81Myujf3A&amp;amp;t=6s&quot;&gt;
+    &lt;img src=&quot;https://juliosol.github.io/multi_step_project/resources/intermediate_thumbnail.jpg&quot; alt=&quot;Intermediate learning&quot; title=&quot;Intermediate results Super Mario&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;
+  &lt;/a&gt;
+  &lt;figcaption&gt; Intermediate results Super Mario &lt;/figcaption&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The last video presented show results of the agent learning more and advancing quite more into the first level.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;a href=&quot;https://www.youtube.com/watch?v=Zy1AgyXMNZQ&quot;&gt;
+    &lt;img src=&quot;https://juliosol.github.io/multi_step_project/resources/good_thumbnail.jpg&quot; alt=&quot;Intermediate learning&quot; title=&quot;Intermediate results Super Mario&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;
+  &lt;/a&gt;
+  &lt;figcaption&gt;Best results Super Mario &lt;/figcaption&gt;
+&lt;/p&gt;</content><author><name>DavidDarnes</name></author><summary type="html">This project was an attempt to extend the paper Large-scale Study of Curiosity-Driven Learning by Peetak et. al. In particular, we attempted to improve the learning framework by allowing the agent to generate predictions of two-steps at a time instead of doing predictions one-step at a time. This was a project developed for the course EECS 598 Deep Learning at University of Michigan in collaboration with Kushantha Attanayake,Ruchir Aggarwal, Dennis Li and Poorani Ravindhiran. You can find the document with the final results here The first video we show has intermediate results from training the agent. In this case, Mario seems to learn something, but it’s “playing” yet. Intermediate results Super Mario The last video presented show results of the agent learning more and advancing quite more into the first level. Best results Super Mario</summary></entry><entry><title type="html">Snake C++ game</title><link href="http://localhost:4000/2020/03/20/cpp-snake/" rel="alternate" type="text/html" title="Snake C++ game " /><published>2020-03-20T17:12:26+00:00</published><updated>2020-03-20T17:12:26+00:00</updated><id>http://localhost:4000/2020/03/20/cpp-snake</id><content type="html" xml:base="http://localhost:4000/2020/03/20/cpp-snake/">&lt;p&gt;This project started with the idea of practicing and reminding myself coding in C++ in the Linux OS. It is helpful for remembering some basic information of C++ classes, structures and data structures in this language. The code is based on the implementation made by ThePoorEngineer &lt;a href=&quot;https://www.thepoorengineer.com/en/snake-cplusplus/&quot;&gt;here&lt;/a&gt;. There are several variations though, because the original code is written for the Windows OS, so had to do some changes in a few libraries used and in the way some of the information is displayed.&lt;/p&gt;
+
+&lt;p&gt;As of now, this is a vanilla version of the game. You can move up (with key ‘w’), left (with key ‘a’), down (with key ‘s’) and right (with key ‘d’). The screen has a counter for the score at the bottom and when the game finishes below the playground you will see the final score. This is a project in progress, since there are a few upgrades I have in mind in order to make the game more challenging (perhaps let the user choose the difficulty level at the beginning of the game).&lt;/p&gt;
+
+&lt;p&gt;Below you can find a video with a short game of the software:&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;a href=&quot;https://www.youtube.com/watch?v=yTTPzmf0XLE&quot;&gt;
+    &lt;img src=&quot;https://juliosol.github.io/site_resources/snake_thumbnail.jpg&quot; alt=&quot;A short game&quot; title=&quot;Intermediate results Super Mario&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;
+    &lt;figcaption&gt; Short game in the snake software. &lt;/figcaption&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;If you want to run the code in your computer, make sure you have g++ installed in your Linux OS. Clone the repository &lt;a href=&quot;https://github.com/juliosol/cpp_snake_game_linux&quot;&gt;here&lt;/a&gt;. Then, run the following command to compile the files.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;g++ -o linux_snake linux_snake.cpp -lncurses -lpthread
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Finally, to play run the command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;./linux_snake
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you have any questions or suggestions, don’t hesitate to reach out!&lt;/p&gt;</content><author><name>DavidDarnes</name></author><summary type="html">This project started with the idea of practicing and reminding myself coding in C++ in the Linux OS. It is helpful for remembering some basic information of C++ classes, structures and data structures in this language. The code is based on the implementation made by ThePoorEngineer here. There are several variations though, because the original code is written for the Windows OS, so had to do some changes in a few libraries used and in the way some of the information is displayed. As of now, this is a vanilla version of the game. You can move up (with key ‘w’), left (with key ‘a’), down (with key ‘s’) and right (with key ‘d’). The screen has a counter for the score at the bottom and when the game finishes below the playground you will see the final score. This is a project in progress, since there are a few upgrades I have in mind in order to make the game more challenging (perhaps let the user choose the difficulty level at the beginning of the game). Below you can find a video with a short game of the software: Short game in the snake software. If you want to run the code in your computer, make sure you have g++ installed in your Linux OS. Clone the repository here. Then, run the following command to compile the files. g++ -o linux_snake linux_snake.cpp -lncurses -lpthread Finally, to play run the command: ./linux_snake If you have any questions or suggestions, don’t hesitate to reach out!</summary></entry></feed>

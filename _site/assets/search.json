@@ -1,0 +1,40 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Snake C++ game ",
+        "excerpt": "This project started with the idea of practicing and reminding myself coding in C++ in the Linux OS. It is helpful for remembering some basic information of C++ classes, structures and data structures in this language. The code is based on the implementation made by ThePoorEngineer here. There are several variations though, because the original code is written for the Windows OS, so had to do some changes in a few libraries used and in the way some of the information is displayed.\n\nAs of now, this is a vanilla version of the game. You can move up (with key ‘w’), left (with key ‘a’), down (with key ‘s’) and right (with key ‘d’). The screen has a counter for the score at the bottom and when the game finishes below the playground you will see the final score. This is a project in progress, since there are a few upgrades I have in mind in order to make the game more challenging (perhaps let the user choose the difficulty level at the beginning of the game).\n\nBelow you can find a video with a short game of the software:\n\n  \n    \n     Short game in the snake software. \n  \n\n\nIf you want to run the code in your computer, make sure you have g++ installed in your Linux OS. Clone the repository here. Then, run the following command to compile the files.\ng++ -o linux_snake linux_snake.cpp -lncurses -lpthread\n\n\nFinally, to play run the command:\n./linux_snake\n\n\nIf you have any questions or suggestions, don’t hesitate to reach out!\n",
+        "content": "This project started with the idea of practicing and reminding myself coding in C++ in the Linux OS. It is helpful for remembering some basic information of C++ classes, structures and data structures in this language. The code is based on the implementation made by ThePoorEngineer here. There are several variations though, because the original code is written for the Windows OS, so had to do some changes in a few libraries used and in the way some of the information is displayed.\n\nAs of now, this is a vanilla version of the game. You can move up (with key ‘w’), left (with key ‘a’), down (with key ‘s’) and right (with key ‘d’). The screen has a counter for the score at the bottom and when the game finishes below the playground you will see the final score. This is a project in progress, since there are a few upgrades I have in mind in order to make the game more challenging (perhaps let the user choose the difficulty level at the beginning of the game).\n\nBelow you can find a video with a short game of the software:\n\n  \n    \n     Short game in the snake software. \n  \n\n\nIf you want to run the code in your computer, make sure you have g++ installed in your Linux OS. Clone the repository here. Then, run the following command to compile the files.\ng++ -o linux_snake linux_snake.cpp -lncurses -lpthread\n\n\nFinally, to play run the command:\n./linux_snake\n\n\nIf you have any questions or suggestions, don’t hesitate to reach out!\n",
+        "url": "/2020/03/20/cpp-snake/"
+      },
+    
+      {
+        "title": "Multi-step curiosity driven learning",
+        "excerpt": "This project was an attempt to extend the paper Large-scale Study of Curiosity-Driven Learning by Peetak et. al. In particular, we attempted to improve the learning framework by allowing the agent to generate predictions of two-steps at a time instead of doing predictions one-step at a time.\n\nThis was a project developed for the course EECS 598 Deep Learning at University of Michigan in collaboration with Kushantha Attanayake,Ruchir Aggarwal, Dennis Li and Poorani Ravindhiran.\n\nYou can find the document with the final results here\n\nThe first video we show has intermediate results from training the agent. In this case, Mario seems to learn something, but it’s “playing” yet.\n\n  \n    \n  \n   Intermediate results Super Mario \n\n\nThe last video presented show results of the agent learning more and advancing quite more into the first level.\n\n  \n    \n  \n  Best results Super Mario \n\n",
+        "content": "This project was an attempt to extend the paper Large-scale Study of Curiosity-Driven Learning by Peetak et. al. In particular, we attempted to improve the learning framework by allowing the agent to generate predictions of two-steps at a time instead of doing predictions one-step at a time.\n\nThis was a project developed for the course EECS 598 Deep Learning at University of Michigan in collaboration with Kushantha Attanayake,Ruchir Aggarwal, Dennis Li and Poorani Ravindhiran.\n\nYou can find the document with the final results here\n\nThe first video we show has intermediate results from training the agent. In this case, Mario seems to learn something, but it’s “playing” yet.\n\n  \n    \n  \n   Intermediate results Super Mario \n\n\nThe last video presented show results of the agent learning more and advancing quite more into the first level.\n\n  \n    \n  \n  Best results Super Mario \n\n",
+        "url": "/2020/04/02/curiosity-driven-learning/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About",
+    "excerpt": "\n",
+    "content": "I am a mathematician broadly interested in machine learning and artificial intelligence. Lately I have worked more with reinforcement learning and computer vision applications. You can find more of what I’ve done in my github page or linkedin.\n\nlinkedin\n             github\n\n\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Sentient being",
+    "excerpt": "Personal website for my projects and notes.\n",
+    "content": "Welcome, this is a website to store some of my personal projects and notes.\n\nI am interested in working in applications that make use of machine learning, deep learning and reinforcement learning. Right now, I am actively looking for working opportunities in any industry where I can pursue my interests artificial intelligence with applications in computer vision. If you have any opportunity or know anybody that has one and think I am a good match, please don’t hesitate to contact me.\n\nThe website is in constant construction, but thanks for stopping by! Feel free to get in touch!\n\nlinkedin\n             github\n\n\n",
+    "url": "/"
+  }
+  
+]
+
