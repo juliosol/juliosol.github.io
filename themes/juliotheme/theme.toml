@@ -1,0 +1,24 @@
+name = "juliotheme"
+license = "MIT"
+licenselink = "https://github.com/juliosol/juliosol.github.io/blob/main/LICENSE"
+description = "A clean, professional theme with blog support"
+
+# The home page of the theme, where the source can be found
+homepage = "https://github.com/juliosol/juliosol.github.io"
+
+# If you have a running demo of the theme
+demosite = "https://juliosol.github.io"
+
+tags = ["blog", "personal", "responsive", "clean", "professional"]
+features = ["blog", "responsive", "clean design"]
+
+# If the theme has a single author
+[author]
+    name = "Julio Soldevilla"
+    homepage = "https://juliosol.github.io"
+
+# If the theme has multiple authors
+#[[author]]
+#    name = "Name of author"
+#    homepage = "Website of author"
+#    repo = "Link to source code"
