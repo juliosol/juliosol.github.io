@@ -1,0 +1,43 @@
+{{ define "main" }}
+<section class="page-header">
+    <div class="container">
+        <h1 class="page-title">{{ .Title }}</h1>
+        {{ with .Description }}
+        <div class="page-description">{{ . }}</div>
+        {{ end }}
+    </div>
+</section>
+
+<section class="page-content">
+    <div class="container">
+        <div class="posts-list">
+            {{ range .Paginator.Pages }}
+            <article class="post-item">
+                <div class="post-meta">
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+                    {{ with .Params.categories }}
+                    <span class="post-category">
+                        {{ range first 1 . }}
+                        <a href="{{ "categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                        {{ end }}
+                    </span>
+                    {{ end }}
+                </div>
+                <h2 class="post-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h2>
+                {{ with .Params.subtitle }}
+                <div class="post-subtitle">{{ . }}</div>
+                {{ end }}
+                <div class="post-summary">
+                    {{ .Summary }}
+                </div>
+                <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+            </article>
+            {{ end }}
+        </div>
+        
+        {{ template "_internal/pagination.html" . }}
+    </div>
+</section>
+{{ end }}
