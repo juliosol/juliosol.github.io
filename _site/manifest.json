@@ -1,9 +1,0 @@
-{
-  "lang": "en-GB",
-  "name": "Alembic",
-  "short_name": "Alembic",
-  "theme_color": "#24292e",
-  "background_color": "#ffffff",
-  "start_url": "/",
-  "display": "standalone"
-}
