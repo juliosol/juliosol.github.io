@@ -49,28 +49,4 @@
     </div>
 </section>
 
-<!--<section class="featured-projects">
-    <div class="container">
-        <h2 class="section-title">Featured Projects</h2>
-        <div class="projects-grid">
-            {{ range first 2 (where .Site.RegularPages "Section" "projects") }}
-            <div class="project-card">
-                {{ with .Params.image }}
-                <div class="project-image">
-                    <img src="{{ . }}" alt="{{ $.Title }}">
-                </div>
-                {{ end }}
-                <div class="project-content">
-                    <h3 class="project-title">{{ .Title }}</h3>
-                    <div class="project-description">
-                        {{ .Summary | truncate 120 }}
-                    </div>
-                    <a href="{{ .Permalink }}" class="btn btn-small">View Project</a>
-                </div>
-            </div>
-            {{ end }}
-        </div>
-    </div>
-</section>
--->
 {{ end }}
