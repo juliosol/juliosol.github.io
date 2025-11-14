@@ -12,11 +12,9 @@ I'm always interested in hearing about new opportunities, collaborations, or jus
 
 ## Get In Touch
 
-**Email**: [your email address]
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/julsoles/)
 
-**LinkedIn**: [your LinkedIn profile URL]
-
-**GitHub**: [your GitHub profile URL]
+**GitHub**: [Github](https://github.com/juliosol)
 
 ## Work Opportunities
 
@@ -25,7 +23,6 @@ I am currently interested in opportunities related to:
 - Machine Learning Engineering
 - Computer Vision
 - AI Research and Development
-- [Other areas you're interested in]
 
 If you have a position that aligns with my skills and interests, please don't hesitate to reach out.
 

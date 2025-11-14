@@ -8,72 +8,13 @@ layout: "page"
 
 # About Me
 
-Hello! I'm Julio Soldevilla, an AI and Machine Learning Engineer passionate about solving complex problems through innovative technology solutions.
-
-## Background
-
-[Insert a brief paragraph about your education, professional background, and key achievements]
-
-## Skills & Expertise
-
-My technical expertise includes:
-
-- **Machine Learning**: Deep learning frameworks, model development, neural networks
-- **Computer Vision**: Image processing, object detection, image classification
-- **Programming Languages**: Python, TensorFlow, PyTorch, [other relevant languages/frameworks]
-- **Data Science**: Data analysis, visualization, statistical modeling
-- [Add other relevant skills]
-
-## Professional Experience
-
-### [Company/Organization Name] | [Position] | [Date Range]
-
-- [Achievement or responsibility]
-- [Achievement or responsibility]
-- [Achievement or responsibility]
-
-### [Company/Organization Name] | [Position] | [Date Range]
-
-- [Achievement or responsibility]
-- [Achievement or responsibility]
-- [Achievement or responsibility]
-
-## Education
-
-- **[Degree]** in [Field of Study] | [University Name] | [Year]
-- **[Degree]** in [Field of Study] | [University Name] | [Year]
-
-## Projects
-
-I've worked on numerous projects in the field of AI and machine learning. Here are a few highlights:
-
-### [Project Name]
-
-[Brief description of the project, technologies used, and outcomes]
-
-### [Project Name]
-
-[Brief description of the project, technologies used, and outcomes]
-
-## Research & Publications
-
-- [Publication Title] | [Journal/Conference] | [Year]
-- [Publication Title] | [Journal/Conference] | [Year]
-
-## Interests
-
-Outside of work, I enjoy:
-
-- [Interest]
-- [Interest]
-- [Interest]
+Hello! I'm Julio Soldevilla, a science enthusiast experiment with sharing knowledge. In this page I intend to share fun projects or interesting in-depth and math based learning I do. The idea is the page to serve as a learning journal for my own use (and if people find it insightful then it's even better.)
 
 ## Contact
 
 I'm always open to discussing new projects, opportunities, or ideas. Feel free to reach out to me through:
 
-- Email: [Your email]
-- LinkedIn: [Your LinkedIn profile]
-- GitHub: [Your GitHub profile]
+- [LinkedIn](https://www.linkedin.com/in/julsoles/)
+- [Github](https://github.com/juliosol)
 
 Thanks for visiting my website, and I look forward to connecting with you!
